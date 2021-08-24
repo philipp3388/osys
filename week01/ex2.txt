@@ -1,0 +1,263 @@
+    1  sudo apt-get install build-essential 
+    2  sudo apt-get upgrade
+    3  cd /media/user/VBox_GAs_5.2.4
+    4  ./VBoxLinuxAdditions.run 
+    5  sudo ./VBoxLinuxAdditions.run 
+    6  cd ./Downloads/
+    7  sudo ./Qu
+    8  ls
+    9  sudo ./QuartusLiteSetup-17.1.0.590-linux.run 
+   10  lsusb
+   11  sudo adduser user vboxusers
+   12  lsusb
+   13  java
+   14  sudo apt-get install default-jre
+   15  cd Downloads/
+   16  java -jar Mars4_5.jar 
+   17  cd /home/user/intelFPGA_lite/17.1/modelsim_ase/bin
+   18  ./vsim 
+   19  cd /home/user/intelFPGA_lite/17.1/modelsim_ase/linux
+   20  ./vsim
+   21  vim vsim
+   22  vi vsim
+   23  sudo apt-get install libstdc++6:i386 libc6:i386 libx11-dev:i386 libxext-dev:i386 libxau-dev:i386 libxdmcp-dev:i386 libfreetype6:i386 fontconfig:i386 
+   24  sudo apt-get install libxft-dev:i386
+   25  sudo apt-get install libncurses5-dev:i386
+   26  cd /etc/udev/rules.d/
+   27  ls
+   28  lsusb
+   29  cd ~/intelFPGA_lite/17.1/modelsim_ase/linux
+   30  ls
+   31  ./vsim
+   32  cd ..
+   33  find -r *.ico
+   34  find *.ico
+   35  find 
+   36  cd ./modelsim_ase/linux
+   37  ls
+   38  cp
+   39  cp --help
+   40  cp ~/Downloads/modelsim.jpg ~/intelFPGA_lite/17.1/modelsim_ase/modelsim.jpg
+   41  sudo cp ~/Downloads/modelsim.jpg ~/intelFPGA_lite/17.1/modelsim_ase/modelsim.jpg
+   42  lsusb
+   43  /media/user/VBox_GAs_5.2.6
+   44  cd /media/user/VBox_GAs_5.2.6
+   45  ./VBoxLinuxAdditions.run 
+   46  sudo ./VBoxLinuxAdditions.run 
+   47  echo $PATH
+   48  jtagconfig 
+   49  ps aux|grep jtagd
+   50  sudo killall -9 jtagd
+   51  sudo jtagd
+   52  sudo ./jtagd
+   53  ./jtagconfig 
+   54  sudo killall -9 jtagd
+   55  ./jtagd --foreground --debug
+   56  sudo apt-get install libudev-dev 
+   57  cd ~/intelFPGA_lite/17.1/quartus/bin/
+   58  ./jtagconfig 
+   59  ./jtagd 
+   60  ./jtagconfig 
+   61  ps -A | grep jtagd
+   62  killall jtagd
+   63  jtagd --user-start
+   64  ./jtagd --user-start
+   65  ./jtagconfig 
+   66  ./jtagconfig 
+   67  sudo ln -s /lib/x86_64-linux-gnu/libudev.so.1 /usr/lib/libudev.so.0
+   68  ./jtagd --foreground --debug
+   69  sudo killall -9 jtagd
+   70  ./jtagd --foreground --debug
+   71  sudo killall -9 jtagd
+   72  lsusb
+   73  cd ~
+   74  sudo mount -t vboxsf wd ~/temp
+   75  lsusb
+   76  cd ./intelFPGA_lite/17.1/quartus/bin/
+   77  ./jtagconfig 
+   78  sudo adduser user vboxsf
+   79  /media/user/VBox_GAs_5.2.7
+   80  search Telegram
+   81  find Telegram
+   82  find ~ Telegram
+   83  find ~ "Telegram"
+   84  mkdir sim
+   85  cd sim
+   86  vsim -do ../modelsim_script.tcl
+   87  sudo ln -s ~/intelFPGA_lite/17.1/modelsim_ase/linuxaloem/vsim
+   88  alias vsim ~/intelFPGA_lite/17.1/modelsim_ase/linuxaloem/vsim
+   89  which vsim
+   90  vsim -do ../modelsim_script.tcl
+   91  alias vsim ~/intelFPGA_lite/17.1/modelsim_ase/linuxaloem/vsim /usr/bin/vsim
+   92  sudo ln -s ~/intelFPGA_lite/17.1/modelsim_ase/linuxaloem/vsim /usr/bin/vsim
+   93  vsim -do ../modelsim_script.tcl
+   94  sudo rm -f vsim
+   95  msim --version
+   96  vsim
+   97  sudo vsim
+   98  chmod --help
+   99  sudo chmod -R 777 .
+  100  sudo mkdir projects
+  101  cd projects
+  102  sudo mkdir my_first_fpga
+  103  dmesg | tail
+  104  echo PATH
+  105  echo $PATH
+  106  nano .bashrc
+  107  source .bashrc
+  108  which jtagd
+  109  dmesg | tail
+  110  sudo fdisk -l
+  111  ls /media
+  112  which jtagd
+  113  jtagd --version
+  114  jtagconfig --version
+  115  sudo mv /etc/udev/rules.d/51-usbblaster.rules etc/udev/rules.d/91-usbblaster.rules
+  116  ls etc/udev/rules.d
+  117  ls etc/udev/
+  118  sudo mv /etc/udev/rules.d/51-usbblaster.rules /etc/udev/rules.d/91-usbblaster.rules
+  119  sudo reboot
+  120  libusb-config --version
+  121  sudo apt-install libusb-dev
+  122  sudo apt install libusb-dev
+  123  sudo killall -9 jtagd
+  124  sudo jtagd
+  125  source .bashrc
+  126  echo $PATH
+  127  which jtagd
+  128  jtagd --version
+  129  sudo jtagd
+  130  jtagd
+  131  sudo killall -9 jtagd
+  132  jtagd
+  133  gcc -Wall infilename.c -o outfilename.o
+  134  %gcc hello.c
+  135  cd Folder
+  136  cd /home/user/Desktop/Folder
+  137  ls
+  138  ls -l
+  139  cat ~/hello.c
+  140  mc
+  141  sudo apt install mc
+  142  cd user
+  143  cd home
+  144  cd /home/user/Desktop/Folder
+  145  cd ..
+  146  Folder
+  147  cd Folder
+  148  cd ..
+  149  cd "Folder"
+  150  gcc -Wall hello.c -o hello.o
+  151  gcc -g -O0 -Wall hello.c -o hello.o
+  152  gcc -Wall hello.c -o hello.o
+  153  %gcc hello.c
+  154  %gcc -o hello hello.c
+  155  % gcc hello.c
+  156  cd home
+  157  cd user
+  158  cd Desktop
+  159  cd Folder
+  160  gcc hello.c -o hello
+  161  ./hello
+  162  cat ~/hello.o
+  163  cat hello.o
+  164  cd Desktop
+  165  cd Folder
+  166  gcc hello.c
+  167  a.out
+  168  gcc a.out
+  169  gcc hello.c
+  170  gcc a.out
+  171  gcc hello.o
+  172  gcc hello
+  173  hello.exe
+  174  gcc hello.c
+  175  cd Desktop/Folder
+  176  a.out
+  177  cat a.out
+  178  gcc a.out
+  179  cd Desktop/Folder
+  180  gcc -c test.c -o test.o
+  181  gcc -c main.c -o main.o
+  182  cd Desktop/Folder
+  183  gcc -c test.c -o test.o
+  184  gcc -c main.c -o main.o
+  185  gcc test.o main.o -o test
+  186  cd Desktop/Folder
+  187  ./test
+  188  wget -qO – https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add –
+  189  cd Desktop/Prjects
+  190  cd Desktop
+  191  cd Projects
+  192  cd p002\(math\ operations\)/
+  193  gcc -c mathoper.c 
+  194  mathoper.o
+  195  gcc mathoper.o -o main
+  196  ./ main
+  197  main
+  198  gcc mathoper.c -0 test
+  199  gcc mathoper.c -o test
+  200  ./test
+  201  apt-get install git
+  202  # apt-get install git
+  203  add-apt-repository ppa:git-core/ppa
+  204  sudo apt-get install git
+  205  sudo mount /dev/sdal /mnt
+  206  /etc/password
+  207  @ sudo -i
+  208  sudo -i
+  209  pkexec passwd user
+  210  adduser philipp
+  211  sudo passwrd root
+  212  sudo apt-get install git
+  213  ls
+  214  whoami
+  215  hostname
+  216  ls
+  217  ~
+  218  clear
+  219  ]
+  220  whoami
+  221  hostname
+  222  man man
+  223  less
+  224  ls
+  225  cd week1
+  226  less ex1
+  227  ls
+  228  less ex1.txt
+  229  ls
+  230  cd week1
+  231  ex1.txt
+  232  less ex1.txt
+  233  head ex1.txt
+  234  head 3 ex1.txt
+  235  greep PATTERN 1 ex1.txt
+  236  grep PATTERN 1 ex1.txt
+  237  grep PATTERN <1> ex1.txt
+  238  cd usr/bin
+  239  cd /usr/bin
+  240  grep 'gcc' 
+  241  grep 'week1'
+  242  cd /usr/bin
+  243  ls | sort -r | tail -n 3 > /home/user/week1/ex1.txt
+  244  ls > /home/user/week1/ex1.txt
+  245  ls | sort -r | tail -n 3 > /home/user/week1/ex1.txt
+  246  ls > /home/user/week1/ex1.txt
+  247  history
+  248  clear
+  249  man grep
+  250  clear
+  251  ls grep Documents
+  252  ls | grep Documents
+  253  ls | grep 'D'
+  254  ls | grep 'D' | sort -r
+  255  cd /usr/bin
+  256  ls | grep 'gcc' | sort -r > /home/user/week1/ex1.txt
+  257  cd
+  258  cd week1
+  259  echo ex2.txt
+  260  touch ex2.txt
+  261  history > home/user/week1/ex2.txt
+  262  history ex2.txt
+  263  history >  ex2.txt
